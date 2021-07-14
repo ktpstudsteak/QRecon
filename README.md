@@ -11,3 +11,6 @@ A dive into IoT QR code behavior.
 This started as a bit. I thought it would be cool to measure how many people would scan a QR code temporary tattooed on the back of my neck. But then the thought occured of how many IoT devices actively look follow QR links and what are the implications for security if this is the case? 
 
 
+
+## How?
+I'll be using a physical QR code linked to an analytics page on my site. The site will have some google analytics running as well as [https://github.com/AmIJesse/LinkBait/](AmIJesse's Linkbait). 
