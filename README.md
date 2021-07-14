@@ -8,7 +8,7 @@ A dive into IoT QR code behavior.
  
  
  ## Yeah Ok, but why?
-This started as a bit. I thought it would be cool to measure how many people would scan a QR code temporary tattooed on the back of my neck. But then the thought occured of how many IoT devices actively look follow QR links and what are the implications for security if this is the case? 
+This started as a bit. I thought it would be cool to measure how many people would scan a QR code temporary tattooed on the back of my neck. But then the thought occured of how many IoT devices actively look follow QR links and what are the implications for security if this is the case? Also I think it'd be fun :)
 
 
 
