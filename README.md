@@ -13,4 +13,4 @@ This started as a bit. I thought it would be cool to measure how many people wou
 
 
 ## How?
-I'll be using a physical QR code linked to an analytics page on my site. The site will have some google analytics running as well as [https://github.com/AmIJesse/LinkBait/](AmIJesse's Linkbait). 
+I'll be using a physical QR code linked to an analytics page on my site. The site will have some google analytics running as well as [AmIJesse's Linkbait script](https://github.com/AmIJesse/LinkBait/). 
